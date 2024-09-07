@@ -1,0 +1,12 @@
+C:\Users\eduar\source\repos\eduardoos.com\eduardoos.com.ServiceDefaults\bin\Debug\net8.0\eduardoos.com.ServiceDefaults.deps.json
+C:\Users\eduar\source\repos\eduardoos.com\eduardoos.com.ServiceDefaults\bin\Debug\net8.0\eduardoos.com.ServiceDefaults.dll
+C:\Users\eduar\source\repos\eduardoos.com\eduardoos.com.ServiceDefaults\bin\Debug\net8.0\eduardoos.com.ServiceDefaults.pdb
+C:\Users\eduar\source\repos\eduardoos.com\eduardoos.com.ServiceDefaults\obj\Debug\net8.0\eduardoos.com.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\eduar\source\repos\eduardoos.com\eduardoos.com.ServiceDefaults\obj\Debug\net8.0\eduardoos.com.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\source\repos\eduardoos.com\eduardoos.com.ServiceDefaults\obj\Debug\net8.0\eduardoos.com.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\eduar\source\repos\eduardoos.com\eduardoos.com.ServiceDefaults\obj\Debug\net8.0\eduardoos.com.ServiceDefaults.AssemblyInfo.cs
+C:\Users\eduar\source\repos\eduardoos.com\eduardoos.com.ServiceDefaults\obj\Debug\net8.0\eduardoos.com.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\eduardoos.com\eduardoos.com.ServiceDefaults\obj\Debug\net8.0\eduardoos.com.ServiceDefaults.dll
+C:\Users\eduar\source\repos\eduardoos.com\eduardoos.com.ServiceDefaults\obj\Debug\net8.0\refint\eduardoos.com.ServiceDefaults.dll
+C:\Users\eduar\source\repos\eduardoos.com\eduardoos.com.ServiceDefaults\obj\Debug\net8.0\eduardoos.com.ServiceDefaults.pdb
+C:\Users\eduar\source\repos\eduardoos.com\eduardoos.com.ServiceDefaults\obj\Debug\net8.0\ref\eduardoos.com.ServiceDefaults.dll

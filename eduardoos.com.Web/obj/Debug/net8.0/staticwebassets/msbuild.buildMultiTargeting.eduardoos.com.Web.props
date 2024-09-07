@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\eduardoos.com.Web.props" />
+</Project>
